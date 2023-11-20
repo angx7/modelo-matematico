@@ -56,7 +56,6 @@ public class reloj {
                         minini = 0;
                     }
                 }
-                System.out.println("Control: " + i);
                 if (i == 24) {
                     horafindinamica = horafin;
                     i = -1;
